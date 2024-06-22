@@ -1,0 +1,4 @@
+Probe todo el codigo y funciono bien!
+
+Sin embargo hay un error que no pude modificar me quede trabado en ese que es que una vez que se deposita dinero, cuando queres transferir te diced que no tenes dinero cuando en verdad si
+y es porque no se me acutualiza esa parte y no pude encontrar esa forma!
